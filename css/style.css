@@ -1,1 +1,4 @@
 /* Main CSS style code file */
+.container {
+  margin: auto;
+}
