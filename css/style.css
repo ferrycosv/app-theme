@@ -2,3 +2,6 @@
 .container {
   margin: auto;
 }
+img {
+  width: 100%;
+}
