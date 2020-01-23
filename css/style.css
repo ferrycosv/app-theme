@@ -158,8 +158,8 @@ img {
 }
 
 #main-footer .primary-text {
-    color: #000;
-  }
+  color: #000;
+}
 
 /* Media queries */
 @media (max-width: 800px) {
