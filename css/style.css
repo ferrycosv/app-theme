@@ -151,6 +151,16 @@ img {
   border: 0;
 }
 
+/* Footer style */
+#main-footer {
+  background: #56a79a;
+  color: #fff;
+}
+
+#main-footer .primary-text {
+    color: #000;
+  }
+
 /* Media queries */
 @media (max-width: 800px) {
   #showcase h1 {
