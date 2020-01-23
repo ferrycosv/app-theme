@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-The purpose of the project is to be able to complete a development project using the CVS tool git and the internet service github to store the code remotely. Brief example of how you can make a responsive layout only using CSS code from the flexboxgrid css file, you can shape any kind of grid object and adjust it for several screen sizes at once.
+The purpose of the project is to be able to complete a development project using the CVS tool git and the internet service github to store the code remotely. Brief example of how you can make a responsive layout only using CSS code from the flexboxgrid css file, you can shape any kind of grid object and adjust it for several screen sizes at once. [development-strategy.md](./development-strategy.md) file contains the steps used to complete this project, it describes the branches with details about the what is implemented.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.jpg)
